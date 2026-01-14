@@ -1,5 +1,5 @@
 """
-projekt_skola.py: druhý projekt do Engeto Online Python Akademie
+projekt_skola.py
 
 author: Jakub Kankrlík
 email: kankrlik.jakub@gmail.com
@@ -98,3 +98,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
